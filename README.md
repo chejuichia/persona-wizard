@@ -23,6 +23,8 @@ https://github.com/user-attachments/assets/169106e3-6b6b-4c51-aee5-0dd1fb56ceba
 
 ## Technical Architecture
 
+<img width="3840" height="1337" alt="persona wizard | Mermaid Chart-2025-09-21-143209" src="https://github.com/user-attachments/assets/92e5ce6b-688e-42d1-95ae-f8c9fc56aaaa" />
+
 ### Core Stack
 - **Frontend**: Next.js 14 + TypeScript + Tailwind CSS
 - **Backend**: FastAPI + Python 3.11+ + Pydantic
