@@ -1,6 +1,6 @@
 ![future](thefuture.png)
 
-# Persona Wizard
+# Portable Persona Wizard
 
 ## TL;DR
 
