@@ -9,6 +9,7 @@
 **Persona Wizard** is an AI prototype that creates portable talking avatars from a voice, text, and photo sample. Give it a text prompt, and it generates a realistic video of a person responding with cloned voice and lip-synced movements. Think of it as "deepfake for good" - creating personalized AI assistants, virtual presenters, or educational content with just a few clicks.
 
 ![demogif](https://github.com/user-attachments/assets/4100c792-6052-4f9a-a9ba-b78203f43bba)
+Watch the demo video here: https://youtu.be/hqa2aSVVlcs
 
 **What it does:**
 - Users  are guided through voice recording, text and image upload
