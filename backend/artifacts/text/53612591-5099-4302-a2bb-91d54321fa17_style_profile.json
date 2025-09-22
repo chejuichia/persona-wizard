@@ -1,0 +1,120 @@
+{
+  "metadata": {
+    "word_count": 608,
+    "sentence_count": 32,
+    "paragraph_count": 1,
+    "unique_words": 174,
+    "character_count": 3734,
+    "character_count_no_spaces": 3164
+  },
+  "style_metrics": {
+    "avg_sentence_length": 19.0,
+    "avg_paragraph_length": 608.0,
+    "vocabulary_richness": 0.286,
+    "reading_ease": 44.2,
+    "punctuation_density": 0.155
+  },
+  "vocabulary": {
+    "most_common_words": [
+      [
+        "digital",
+        18
+      ],
+      [
+        "future",
+        12
+      ],
+      [
+        "their",
+        12
+      ],
+      [
+        "personas",
+        10
+      ],
+      [
+        "not",
+        10
+      ],
+      [
+        "our",
+        8
+      ],
+      [
+        "more",
+        8
+      ],
+      [
+        "where",
+        6
+      ],
+      [
+        "persona",
+        6
+      ],
+      [
+        "than",
+        6
+      ],
+      [
+        "one",
+        4
+      ],
+      [
+        "only",
+        4
+      ],
+      [
+        "also",
+        4
+      ],
+      [
+        "who",
+        4
+      ],
+      [
+        "imagine",
+        4
+      ],
+      [
+        "world",
+        4
+      ],
+      [
+        "learn",
+        4
+      ],
+      [
+        "values",
+        4
+      ],
+      [
+        "generations",
+        4
+      ],
+      [
+        "about",
+        4
+      ]
+    ],
+    "vocabulary_size": 174,
+    "stop_word_ratio": 0.368
+  },
+  "punctuation": {
+    "exclamation_ratio": 0.0,
+    "question_ratio": 0.0,
+    "total_punctuation": 94
+  },
+  "tone": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "formal": 0.0,
+    "casual": 0.053
+  },
+  "text_samples": {
+    "first_sentence": "As I look toward the future, one theme keeps returning to me: the rise of digital personas",
+    "last_sentence": "This is the future I imagine, and one I hope we will build together",
+    "longest_sentence": "We are entering an era where a person will not only be represented by their voice, their face, or their written words, but also by a living, evolving digital counterpart that can speak, act, and interact on their behalf",
+    "shortest_sentence": "But this future also requires responsibility"
+  }
+}

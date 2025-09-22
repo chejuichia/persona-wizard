@@ -1,0 +1,10 @@
+{
+  "voice_id": "2ed1bea5-b628-4914-8f15-dba269473a72",
+  "voice_name": "voice_2ed1bea5-b628-4914-8f15-dba269473a72",
+  "reference_text": "Hello, this is a test recording for voice cloning.",
+  "duration": 9.247528344671203,
+  "sample_rate": 22050,
+  "original_file": "2ed1bea5-b628-4914-8f15-dba269473a72_original.webm",
+  "profile_file": "2ed1bea5-b628-4914-8f15-dba269473a72_xtts_speaker.json",
+  "created_at": "2025-09-22T01:47:42.683848"
+}

@@ -1,0 +1,96 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Node.js (for frontend)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.next/
+out/
+
+# Data directories (exclude large files)
+backend/data/uploads/
+backend/data/portraits/
+backend/data/personas/
+backend/data/outputs/
+backend/models/
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Jupyter Notebooks
+.ipynb_checkpoints
+
+# PyTorch
+*.pth
+*.pt
+
+# Audio/Video files (exclude large media)
+*.mp4
+*.mov
+*.avi
+*.wav
+*.mp3
+*.m4a
+
+# Test outputs
+test_outputs/
+outputs/

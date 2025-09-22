@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "word_count": 15,
+    "sentence_count": 1,
+    "paragraph_count": 1,
+    "unique_words": 14,
+    "character_count": 75,
+    "character_count_no_spaces": 62
+  },
+  "style_metrics": {
+    "avg_sentence_length": 15.0,
+    "avg_paragraph_length": 15.0,
+    "vocabulary_richness": 0.933,
+    "reading_ease": 73.2,
+    "punctuation_density": 0.067
+  },
+  "vocabulary": {
+    "most_common_words": [
+      [
+        "juichia",
+        1
+      ],
+      [
+        "here",
+        1
+      ],
+      [
+        "present",
+        1
+      ],
+      [
+        "portable",
+        1
+      ],
+      [
+        "persona",
+        1
+      ],
+      [
+        "wizard",
+        1
+      ]
+    ],
+    "vocabulary_size": 14,
+    "stop_word_ratio": 0.6
+  },
+  "punctuation": {
+    "exclamation_ratio": 0.0,
+    "question_ratio": 0.0,
+    "total_punctuation": 1
+  },
+  "tone": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "formal": 0.0,
+    "casual": 0.133
+  },
+  "text_samples": {
+    "first_sentence": "This is Juichia and I'm here to present to you the portable persona wizard",
+    "last_sentence": "This is Juichia and I'm here to present to you the portable persona wizard",
+    "longest_sentence": "This is Juichia and I'm here to present to you the portable persona wizard",
+    "shortest_sentence": "This is Juichia and I'm here to present to you the portable persona wizard"
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "metadata": {
+    "word_count": 15,
+    "sentence_count": 1,
+    "paragraph_count": 1,
+    "unique_words": 14,
+    "character_count": 76,
+    "character_count_no_spaces": 63
+  },
+  "style_metrics": {
+    "avg_sentence_length": 15.0,
+    "avg_paragraph_length": 15.0,
+    "vocabulary_richness": 0.933,
+    "reading_ease": 67.5,
+    "punctuation_density": 0.067
+  },
+  "vocabulary": {
+    "most_common_words": [
+      [
+        "juichia",
+        1
+      ],
+      [
+        "here",
+        1
+      ],
+      [
+        "introduce",
+        1
+      ],
+      [
+        "digital",
+        1
+      ],
+      [
+        "persona",
+        1
+      ],
+      [
+        "bundle",
+        1
+      ]
+    ],
+    "vocabulary_size": 14,
+    "stop_word_ratio": 0.6
+  },
+  "punctuation": {
+    "exclamation_ratio": 0.067,
+    "question_ratio": 0.0,
+    "total_punctuation": 1
+  },
+  "tone": {
+    "positive": 0.0,
+    "negative": 0.0,
+    "formal": 0.0,
+    "casual": 0.133
+  },
+  "text_samples": {
+    "first_sentence": "This is Juichia and I'm here to introduce you to the digital persona bundle",
+    "last_sentence": "This is Juichia and I'm here to introduce you to the digital persona bundle",
+    "longest_sentence": "This is Juichia and I'm here to introduce you to the digital persona bundle",
+    "shortest_sentence": "This is Juichia and I'm here to introduce you to the digital persona bundle"
+  }
+}
