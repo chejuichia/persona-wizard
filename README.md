@@ -4,9 +4,10 @@
 
 ## TL;DR
 
+*Everyone should own their digital identity and persona, and they can do that through the Multi-Modal Persona Wizard.*
+
 **Persona Wizard** is an AI prototype that creates talking avatars from a voice, text, and photo sample. Give it a text prompt, and it generates a realistic video of a person responding with cloned voice and lip-synced movements. Think of it as "deepfake for good" - creating personalized AI assistants, virtual presenters, or educational content with just a few clicks.
 
-*Watch the Persona Wizard in action - creating talking avatars from voice, text, and photo samples*
 ![demogif](https://github.com/user-attachments/assets/4100c792-6052-4f9a-a9ba-b78203f43bba)
 
 **What it does:**
@@ -17,7 +18,7 @@
 
 https://github.com/user-attachments/assets/169106e3-6b6b-4c51-aee5-0dd1fb56ceba
 
-**Perfect for:** Content creators, educators, developers,robotics teams, or anyone wanting to create personalized AI avatars without complex setup.
+**Perfect for:** Content creators, educators, developers,robotics teams, or anyone wanting to create and own their personalized AI avatars without complex setup.
 
 <img width="1014" height="660" alt="Screenshot 2025-09-21 at 6 38 05 PM" src="https://github.com/user-attachments/assets/67d3fee6-0038-46b2-9183-7603d02efa0d" />
 
