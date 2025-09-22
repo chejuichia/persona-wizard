@@ -19,6 +19,8 @@ https://github.com/user-attachments/assets/169106e3-6b6b-4c51-aee5-0dd1fb56ceba
 
 **Perfect for:** Content creators, educators, developers,robotics teams, or anyone wanting to create personalized AI avatars without complex setup.
 
+<img width="1014" height="660" alt="Screenshot 2025-09-21 at 6 38 05 PM" src="https://github.com/user-attachments/assets/67d3fee6-0038-46b2-9183-7603d02efa0d" />
+
 ---
 
 ## Technical Architecture
