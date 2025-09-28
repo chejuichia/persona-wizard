@@ -236,7 +236,7 @@ curl http://localhost:53224         # Foundry Local (if running on default port)
 ps aux | grep -E "(uvicorn|next|foundry)"
 ```
 
-#### 7. Access the Application
+#### 7. Access the Application (example URL's, might be different on your machine)
 - **Web Interface**: http://localhost:3000
 - **API Documentation**: http://localhost:8000/docs
 - **Health Check**: http://localhost:8000/healthz
@@ -272,7 +272,7 @@ ls -la outputs/
 ```
 
 **Step 8d: Test Web Interface**
-1. Go back to http://localhost:3000
+1. Go back to http://localhost:3000 (or where your frontend is started)
 2. Select your persona
 3. Enter a prompt: e.g. "a 20-second elevator pitch for the multi-modal AI persona wizard"
 4. Click "Generate Video"
